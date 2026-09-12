@@ -50,7 +50,7 @@ npm install
 ### 3. Execute o projeto
 
 ```bash
-npx ts-node <arquivo>.ts
+npx ts-node src/index.ts
 ```
 
 ## 📈 Evolução do projeto
